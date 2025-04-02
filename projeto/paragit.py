@@ -5,4 +5,6 @@ print(i)
 
 #alteração pra git
 
-#alterando para simular conflito
+#alterando para simular 
+
+#simulando comflito 2 
